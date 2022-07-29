@@ -4,8 +4,6 @@
 
 > 🔎 Um site que consome uma api de clima de tempo.
 
-Confira a aplicação: https://www.linkedin.com/in/kayke-fujinaka/ <br>
-
 ## :page_facing_up: Explicação
 O projeto é um desafio proposto pelos lideres do Academy no Grupo GCB. Ele foi realizado através de um Pair Programming.
 
